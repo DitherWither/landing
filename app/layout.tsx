@@ -14,10 +14,8 @@ const ibmPlexMono = IBM_Plex_Mono({
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Saumya Patil — Systems, games, and curious work",
-  description:
-    "The personal portfolio of Saumya Patil, a mechanical engineering student and game developer building thoughtful systems.",
-  generator: "v0.app",
+  title: "Saumya Patil",
+  description: "Personal Homepage of Saumya Patil",
   icons: {
     icon: [
       {
